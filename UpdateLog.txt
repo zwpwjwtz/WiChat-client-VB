@@ -1,0 +1,19 @@
+Version 1.12:(20141119)
+(1)Fix bug of login promption;
+(2)Several improvements of speed and response.
+
+Version 1.11:(20141116)
+(1)Fix bug of string truncation when dealing with file path;
+(2)Add visualized notification of arriving message.
+
+Version 1.10:(20140904)
+(1)Fix (another)bug of possible fault while sending message;
+(2)Fix bug of possible failure when loading session;
+(3)Add note of ID;
+(4)Add function of screen shot.
+
+Version 1.02:(20140731)
+(1)Fix bug of possible fault while sending message;
+(2)Add button of "Hide To Tray" and indicator of exchanging message;
+(3)Import some of the default emotions of QQ;
+(4)Add installing script for Windows 8 user.

@@ -1,0 +1,19 @@
+1.00(1):
+
+1.02(2):
+1. Client change session key automatically;[OK]
+2. Server connection load optimization;[OK]
+3. Local session file encryption;[OK]
+4. Simplify DLL-call of BlowFish_Enc/Dec.[OK]
+
+1.10(3):
+1.Screen shoting;[OK]
+2.Note on ID.[OK]
+
+1.11(4):
+1.Visualized notification of new message[OK].
+
+1.12(5):
+1.Safe exchange of client keys;
+2.Large file transfer through 10000;
+3.Disable default session window of self-ID.
